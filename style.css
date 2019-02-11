@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  padding: 0;
+
+}
+.persons{
+  display: flex;
+  justify-content: start;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+.person{
+  width: 50vw;
+  height: 50vh;
+}
+
+/* Create a new CSS property with your name below */
