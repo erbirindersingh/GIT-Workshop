@@ -1,8 +1,12 @@
 body{
   margin: 0;
   padding: 0;
-
+  font-family: 'Open Sans', sans-serif;
 }
+*{
+  box-sizing: border-box;
+}
+
 .persons{
   display: flex;
   justify-content: start;
@@ -12,8 +16,14 @@ body{
 }
 
 .person{
-  width: 50vw;
   height: 50vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 20px;
+  border: 1px solid rgb(240, 240, 240);
 }
 
-/* Create a new CSS property with your name below */
+/* Create a new CSS property with your name below */ 
