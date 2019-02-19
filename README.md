@@ -57,4 +57,4 @@ In style.css below line **31** add a new CSS id selector with your name and chan
 Open GitHub Desktop and select all the changes you've made. You can select a few lines or the entire file. Give your commit a message that describes what you've changed. After that click **Commit to master**. After that click **Publish branche**.
 
 ## 4.0 View everyone's changes
-When everyone is done with commiting and pushing their changes, click on **Fetch origin** and watch how all your changes come together in one project.
+When everyone is done with commiting and pushing their changes, click on **Fetch origin** after that click **Pull origin** and watch how all your changes come together in one project.
